@@ -7,5 +7,5 @@ Egalement, une autre idée de projet que j'ai eu quand les étudiants m'ont mont
 
 Tout de suite, je suis un tuto pas à pas pour apprendre à créer un **jeu vidéo en 2D avec Unity de A à Z (C#)**, il est vrai que je ne vais donc pas coder par moi-même, mais c'est très intéressant à suivre, et cela me donne **envie d'apprendre à coder moi-même** d'autres projets.
 
-Voici l'avancée de mes travaux (j'en suis qu'au début, j'avais tout effacé parce que je ne comprenais pas mes erreurs...) :
+Voici l'avancée de mes travaux :
 ![Screenshot 2023-04-14](https://user-images.githubusercontent.com/127013475/232117856-4e781869-7caa-4d81-8bc3-b85589d2a514.png)
