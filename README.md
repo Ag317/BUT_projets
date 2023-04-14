@@ -7,3 +7,5 @@ Tout de suite, je suis un tuto pas à pas pour apprendre à créer un **jeu vid�
 
 Voici l'avancée de mes travaux :
 ![Screenshot 2023-04-14](https://user-images.githubusercontent.com/127013475/232117856-4e781869-7caa-4d81-8bc3-b85589d2a514.png)
+
+C'était intéressant mais je n'ai plus envie de copier ce que quelqu'un fait. Je vais donc explorer la dernière mise à jour.
