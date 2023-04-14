@@ -6,5 +6,6 @@ Néanmoins, en attendant, j'ai deux idées de projets que je pourrais faire pend
 Egalement, une autre idée de projet que j'ai eu quand les étudiants m'ont montré l'interface d'une application qu'ils avaient fait, est une application pour aider les étudiants à cuisiner des recettes rapides, avec le meilleur rapport qualité/prix, au vu de l'inflation, et aussi l'idée reçue qu'un étudiant mange que des pâtes, même si j'ai l'impression que ce n'est pas un problème au Puy-en-Velay.
 
 Tout de suite, je suis un tuto pas à pas pour apprendre à créer un **jeu vidéo en 2D avec Unity de A à Z (C#)**, il est vrai que je ne vais donc pas coder par moi-même, mais c'est très intéressant à suivre, et cela me donne **envie d'apprendre à coder moi-même** d'autres projets.
+
 Voici l'avancée de mes travaux (j'en suis qu'au début, j'avais tout effacé parce que je ne comprenais pas mes erreurs...) :
 ![Screenshot montrant l'avancée - j'en suis qu'au début - de mes travaux](https://user-images.githubusercontent.com/127013475/232050908-8bf0ff87-6b30-4706-99d9-d2023516105f.png)
